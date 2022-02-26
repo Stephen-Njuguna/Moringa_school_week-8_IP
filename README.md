@@ -1,1 +1,1 @@
-# Moringa_school_week-8_IP
+# Nairobi Hospital, clinical camp to test for hypothyroidism
